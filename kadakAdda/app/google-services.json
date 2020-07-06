@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "728002257257",
+    "firebase_url": "https://kadakadda-e540a.firebaseio.com",
+    "project_id": "kadakadda-e540a",
+    "storage_bucket": "kadakadda-e540a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728002257257:android:841d08acbc0c54f7f29df8",
+        "android_client_info": {
+          "package_name": "com.example.kadakadda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728002257257-j189ol83rjsd1f6o43asdttqrvpgprn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kadakadda",
+            "certificate_hash": "58f87672e1bf3ead5c42e1d2d6e4e531c09a638e"
+          }
+        },
+        {
+          "client_id": "728002257257-r29n7uk2jfm7d3hqqphhi108tdfve5vi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe-Br2mAj0Zi-afMCz5Xsx-BklFrr-LlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728002257257-r29n7uk2jfm7d3hqqphhi108tdfve5vi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
