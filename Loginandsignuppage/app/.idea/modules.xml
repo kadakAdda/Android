@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-66449808/Login_and_signup_page.iml" filepath="$PROJECT_DIR$/.idea/modules/-66449808/Login_and_signup_page.iml" group="Login_and_signup_page" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="Login and signup page/app" />
+    </modules>
+  </component>
+</project>
