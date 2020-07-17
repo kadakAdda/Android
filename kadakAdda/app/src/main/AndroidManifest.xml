@@ -11,7 +11,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"></activity>
+        <activity android:name=".CartActivity"></activity>
+        <activity android:name=".MainActivity" />
         <activity android:name=".splashAcivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,6 +43,9 @@
                 <data android:scheme="@string/fb_login_protocol_scheme" />
             </intent-filter>
         </activity>
+        <activity android:name=".AddressActivity"/>
+        <activity android:name=".UserAddress"/>
+        <activity android:name=".PaymentActivity"/>
     </application>
 
 </manifest>

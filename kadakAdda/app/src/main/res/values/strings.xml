@@ -2,5 +2,8 @@
     <string name="app_name">kadak Adda</string>
     <string name="facebook_app_id">915366395632704</string>
     <string name="fb_login_protocol_scheme">fb915366395632704</string>
+    <string name="shared_preferences">SHARED_PREFERENCES</string>
+    <string name="user_cart">USER_CART</string>
+    <string name="product_list">productList</string>
 
 </resources>
